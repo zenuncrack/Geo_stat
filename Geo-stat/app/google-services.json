@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27619127260",
+    "project_id": "geo-stat",
+    "storage_bucket": "geo-stat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27619127260:android:32d191b5709ab2b1d5a919",
+        "android_client_info": {
+          "package_name": "com.example.geo_stat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27619127260-1sjkfn7tiftvo4dgivl6keps2hg5oqlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xotn2UJq09xa4kZ5Un95A_CYTa3NFUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27619127260-1sjkfn7tiftvo4dgivl6keps2hg5oqlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
